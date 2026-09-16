@@ -8,12 +8,12 @@ def checkIdentity(m1):
     #Complete the function
     return False
 
-# function that returns identiy matrix in n dimensions
+# function that returns normalized identity matrix in n dimensions
 def getIdentity(n):
     #Complete the function
     return False
 
-# function that returns Hadamard matrix in 2 dimensions
+# function that returns normalized Hadamard matrix in 2 dimensions
 def getHadmond():
     #Complete the function
     return False
