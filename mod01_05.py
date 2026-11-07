@@ -14,6 +14,6 @@ def getIdentity(n):
     return False
 
 # function that returns normalized Hadamard matrix in 2 dimensions
-def getHadmond():
+def getHadamond():
     #Complete the function
     return False
